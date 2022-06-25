@@ -1,7 +1,6 @@
 {
   "name": "employee_crud",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -24,5 +23,7 @@
   "bugs": {
     "url": "https://github.com/TuanThai/Employee_CRUD/issues"
   },
-  "homepage": "https://github.com/TuanThai/Employee_CRUD#readme"
+  "homepage": "https://github.com/TuanThai/Employee_CRUD#readme",
+  "keywords": [],
+  "description": ""
 }
